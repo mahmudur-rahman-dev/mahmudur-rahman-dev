@@ -40,7 +40,7 @@ I am _Mahmudur Rahman_. I'm a **Fullstack Developer** 🚀 leveraging modern web
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://learn.microsoft.com/en-us/sql/sql-server/" alt="mssql" width="40" height="40"/> </a>
+<!-- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://learn.microsoft.com/en-us/sql/sql-server/" alt="mssql" width="40" height="40"/> </a> -->
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres" width="40" height="40"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
