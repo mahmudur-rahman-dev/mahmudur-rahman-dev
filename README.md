@@ -57,7 +57,7 @@ I am _Mahmudur Rahman_. I'm a **Fullstack Developer** 🚀 leveraging modern web
 - E-commerce - A simple Nextjs shopping app [(link)](https://dev-shopp.vercel.app/) -->
 
 ### 📫 How to reach me?
-**mahmudur.rahman.dev@gmail.com**
+**mahmudur.rahman.csedu@gmail.com**
 <p align="left">
 <a href="https://x.com/Mahmudu90540101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmud_type" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahmudur-rahman-1099471b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_mahmud" height="30" width="40" /></a>
